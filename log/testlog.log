@@ -45,3 +45,8 @@
 2023-05-21 16:33:56,149 - my test logs -INFO - entering username
 2023-05-21 16:33:56,219 - my test logs -INFO - entering Password
 2023-05-21 16:33:56,272 - my test logs -INFO - Clickg on Confirm 
+2023-05-22 15:25:58,580 - my test logs -INFO - opening urlhttps://demo.guru99.com/v4/index.php
+2023-05-22 15:25:59,746 - my test logs -INFO - maximising window
+2023-05-22 15:25:59,891 - my test logs -INFO - entering username
+2023-05-22 15:26:00,007 - my test logs -INFO - entering Password
+2023-05-22 15:26:00,061 - my test logs -INFO - Clickg on Confirm 
